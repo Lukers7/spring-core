@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.SimpleTypeReferenceTests" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:56" hostname="WKS-SE-RPL" time="0.068">
+  <properties/>
+  <testcase name="[1] typeReference=java.lang.Object[], expectedName=java.lang.Object[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[2] typeReference=java.lang.Integer[], expectedName=java.lang.Integer[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[3] typeReference=com.example.Test[], expectedName=com.example.Test[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="nameOfCglibProxy()" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[1] typeReference=boolean, expectedName=boolean" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[2] typeReference=byte, expectedName=byte" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[3] typeReference=short, expectedName=short" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[4] typeReference=int, expectedName=int" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[5] typeReference=long, expectedName=long" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[6] typeReference=char, expectedName=char" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[7] typeReference=float, expectedName=float" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[8] typeReference=double, expectedName=double" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[9] typeReference=boolean[], expectedName=boolean[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[10] typeReference=byte[], expectedName=byte[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[11] typeReference=short[], expectedName=short[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[12] typeReference=int[], expectedName=int[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[13] typeReference=long[], expectedName=long[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[14] typeReference=char[], expectedName=char[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <testcase name="[15] typeReference=float[], expectedName=float[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="[16] typeReference=double[], expectedName=double[]" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="nameOfNestedCglibProxy()" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="typeReferenceInRootPackage()" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.026"/>
+  <testcase name="com.example.Tes(t" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.001"/>
+  <testcase name="com.example..Test" classname="org.springframework.aot.hint.SimpleTypeReferenceTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

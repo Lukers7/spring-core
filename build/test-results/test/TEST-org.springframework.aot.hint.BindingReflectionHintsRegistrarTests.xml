@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:55" hostname="WKS-SE-RPL" time="1.302">
+  <properties/>
+  <testcase name="registerTypeForJacksonAnnotations()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="1.171"/>
+  <testcase name="registerTypeForInheritedJacksonAnnotations()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.001"/>
+  <testcase name="registerTypeForSerializationWithNoProperty()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.003"/>
+  <testcase name="registerTypeForSerializationWithCycles()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.023"/>
+  <testcase name="registerTypeForSerializationWithGetter()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.022"/>
+  <testcase name="registerTypeForSerializationWithRecord()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.002"/>
+  <testcase name="registerTypeForSerializationWithSetter()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.003"/>
+  <testcase name="registerTypeForSerializationWithEnum()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.003"/>
+  <testcase name="registerTypeForSerializationWithMultipleLevelsAndCollection()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.008"/>
+  <testcase name="registerTypeForSerializationWithListProperty()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.005"/>
+  <testcase name="registerTypeForSerializationWithResolvableType()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.046"/>
+  <testcase name="registerTypeForSerializationWithEmptyClass()" classname="org.springframework.aot.hint.BindingReflectionHintsRegistrarTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.102">
+  <properties/>
+  <testcase name="methodIntrospectionMatchesIntrospectPublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="privateMethodInvocationMatchesMethodInvocationHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodInvocationMatchesMethodInvocationHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="privateMethodIntrospectionMatchesMethodHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodInvocationMatchesInvokeDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.003"/>
+  <testcase name="privateMethodIntrospectionMatchesInvokeDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="privateMethodIntrospectionDoesNotMatchIntrospectPublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="privateMethodInvocationDoesNotMatchMethodHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodIntrospectionMatchesMethodHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="privateMethodInvocationDoesNotMatchIntrospectPublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="methodInvocationDoesNotMatchMethodHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodIntrospectionFailsForUnknownType()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodIntrospectionMatchesInvokeDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="methodInvocationDoesNotMatchIntrospectDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="privateMethodInvocationDoesNotMatchIntrospectDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.024"/>
+  <testcase name="methodIntrospectionMatchesIntrospectDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.003"/>
+  <testcase name="privateMethodInvocationDoesNotMatchInvokePublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="privateMethodIntrospectionDoesNotMatchInvokePublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="methodInvocationDoesNotMatchIntrospectPublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.007"/>
+  <testcase name="methodInvocationMatchesInvokePublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.0"/>
+  <testcase name="methodIntrospectionMatchesInvokePublicMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.015"/>
+  <testcase name="privateMethodInvocationMatchesInvokeDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.001"/>
+  <testcase name="privateMethodIntrospectionMatchesIntrospectDeclaredMethods()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnMethod" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

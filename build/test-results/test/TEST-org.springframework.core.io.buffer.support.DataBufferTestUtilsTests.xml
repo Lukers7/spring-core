@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:17" hostname="WKS-SE-RPL" time="0.036">
+  <properties/>
+  <testcase name="[1] NettyDataBufferFactory - UnpooledByteBufAllocator - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.002"/>
+  <testcase name="[2] NettyDataBufferFactory - UnpooledByteBufAllocator - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[3] NettyDataBufferFactory - PooledByteBufAllocator - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[4] NettyDataBufferFactory - PooledByteBufAllocator - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <testcase name="[5] Netty5DataBufferFactory - BufferAllocator.onHeapUnpooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[6] Netty5DataBufferFactory - BufferAllocator.offHeapUnpooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[7] Netty5DataBufferFactory - BufferAllocator.onHeapPooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.016"/>
+  <testcase name="[8] Netty5DataBufferFactory - BufferAllocator.offHeapPooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.002"/>
+  <testcase name="[9] DefaultDataBufferFactory - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[10] DefaultDataBufferFactory - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[1] NettyDataBufferFactory - UnpooledByteBufAllocator - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[2] NettyDataBufferFactory - UnpooledByteBufAllocator - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <testcase name="[3] NettyDataBufferFactory - PooledByteBufAllocator - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[4] NettyDataBufferFactory - PooledByteBufAllocator - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[5] Netty5DataBufferFactory - BufferAllocator.onHeapUnpooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <testcase name="[6] Netty5DataBufferFactory - BufferAllocator.offHeapUnpooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <testcase name="[7] Netty5DataBufferFactory - BufferAllocator.onHeapPooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.002"/>
+  <testcase name="[8] Netty5DataBufferFactory - BufferAllocator.offHeapPooled()" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <testcase name="[9] DefaultDataBufferFactory - preferDirect = true" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.0"/>
+  <testcase name="[10] DefaultDataBufferFactory - preferDirect = false" classname="org.springframework.core.io.buffer.support.DataBufferTestUtilsTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.348">
+  <properties/>
+  <testcase name="typeWithAnyMemberCategoryDoesNotMatchOtherCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.001"/>
+  <testcase name="typeWithMemberCategoriesDoesNotMatchMissingCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.148"/>
+  <testcase name="typeWithMemberCategoryDoesNotMatchOtherCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.001"/>
+  <testcase name="reflectionOnDifferentClassShouldNotMatchIntrospection()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="typeWithMemberCategoriesMatchesCategories()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="reflectionOnTypeReferenceShouldMatchIntrospection()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="typeWithAnyMemberCategoryMatchesCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="typeWithMemberCategoryFailsWithNullCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.037"/>
+  <testcase name="shouldFailForNullType()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="typeWithMemberCategoryMatchesCategory()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="reflectionOnClassShouldMatchIntrospection()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.0"/>
+  <testcase name="typeWithAnyMemberCategoryFailsWithNullCategories()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnType" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

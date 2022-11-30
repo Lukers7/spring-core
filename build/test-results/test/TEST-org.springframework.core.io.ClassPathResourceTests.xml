@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.ClassPathResourceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:11" hostname="WKS-SE-RPL" time="0.118">
+  <properties/>
+  <testcase name="emptyFileReadable(File)" classname="org.springframework.core.io.ClassPathResourceTests" time="0.113"/>
+  <testcase name="directoryNotReadable()" classname="org.springframework.core.io.ClassPathResourceTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov. 30, 2022 12:07:11 PM org.junit.jupiter.engine.extension.TempDirectory$CloseablePath close
+INFORMATION: Skipping cleanup of temp dir C:\Users\reinhold\AppData\Local\Temp\junit4504736042512611954 due to cleanup mode configuration.
+]]></system-err>
+</testsuite>

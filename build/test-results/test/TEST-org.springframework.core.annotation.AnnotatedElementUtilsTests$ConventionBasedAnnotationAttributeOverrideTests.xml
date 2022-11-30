@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" tests="6" skipped="1" failures="0" errors="0" timestamp="2022-11-30T11:07:07" hostname="WKS-SE-RPL" time="0.211">
+  <properties/>
+  <testcase name="getMergedAnnotationAttributesWithConventionBasedComposedAnnotation()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.003"/>
+  <testcase name="findMergedAnnotationAttributesWithSingleElementOverridingAnArrayViaConvention()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.003"/>
+  <testcase name="findMergedAnnotationWithSingleElementOverridingAnArrayViaConvention()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.003"/>
+  <testcase name="getMergedAnnotationAttributesWithInvalidConventionBasedComposedAnnotation()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.197"/>
+  <testcase name="findMergedAnnotationWithLocalAliasesThatConflictWithAttributesInMetaAnnotationByConvention()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.001"/>
+  <testcase name="getMergedAnnotationAttributesWithHalfConventionBasedAndHalfAliasedComposedAnnotation()" classname="org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedAnnotationAttributeOverrideTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[12:07:07.420 [Test worker] WARN  o.s.c.a.AnnotationTypeMapping - Support for convention-based annotation attribute overrides is deprecated and will be removed in Spring Framework 6.1. Please annotate the following attributes in @org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedComposedContextConfig with appropriate @AliasFor declarations: [locations]
+12:07:07.423 [Test worker] WARN  o.s.c.a.AnnotationTypeMapping - Support for convention-based annotation attribute overrides is deprecated and will be removed in Spring Framework 6.1. Please annotate the following attributes in @org.springframework.core.annotation.AnnotatedElementUtilsTests$ConventionBasedSinglePackageComponentScan with appropriate @AliasFor declarations: [basePackages]
+12:07:07.427 [Test worker] WARN  o.s.c.a.AnnotationTypeMapping - Support for convention-based annotation attribute overrides is deprecated and will be removed in Spring Framework 6.1. Please annotate the following attributes in @org.springframework.core.annotation.AnnotationUtilsTests$Post with appropriate @AliasFor declarations: [path]
+12:07:07.625 [Test worker] WARN  o.s.c.a.AnnotationTypeMapping - Support for convention-based annotation attribute overrides is deprecated and will be removed in Spring Framework 6.1. Please annotate the following attributes in @org.springframework.core.annotation.AnnotatedElementUtilsTests$InvalidConventionBasedComposedContextConfig with appropriate @AliasFor declarations: [locations]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

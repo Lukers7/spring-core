@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.support.SpringFactoriesLoaderTests$FailureHandlerTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:17" hostname="WKS-SE-RPL" time="0.005">
+  <properties/>
+  <testcase name="throwingReturnsHandlerThatThrowsIllegalArgumentException()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$FailureHandlerTests" time="0.001"/>
+  <testcase name="handleMessageReturnsHandlerThatAcceptsMessage()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$FailureHandlerTests" time="0.001"/>
+  <testcase name="throwingWithFactoryReturnsHandlerThatThrows()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$FailureHandlerTests" time="0.001"/>
+  <testcase name="loggingReturnsHandlerThatLogs()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$FailureHandlerTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

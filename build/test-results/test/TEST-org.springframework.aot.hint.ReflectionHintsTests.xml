@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.ReflectionHintsTests" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:56" hostname="WKS-SE-RPL" time="0.064">
+  <properties/>
+  <testcase name="registerMethodTwiceUpdatesExistingEntry()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.002"/>
+  <testcase name="registerType()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerClass()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerField()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.002"/>
+  <testcase name="registerTypeIfPresentIgnoresMissingClass()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.039"/>
+  <testcase name="registerMethod()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerClassWithCustomizer()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.002"/>
+  <testcase name="registerTypeReusesBuilder()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="getTypeForNonExistingType()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="getTypeUsingTypeReference()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerTypesAppliesTheSameHints()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.003"/>
+  <testcase name="getTypeUsingType()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerConstructor()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.003"/>
+  <testcase name="registerTypeIfPresentRegistersExistingClass()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <testcase name="registerConstructorTwiceUpdatesExistingEntry()" classname="org.springframework.aot.hint.ReflectionHintsTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

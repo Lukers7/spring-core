@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.16">
+  <properties/>
+  <testcase name="shouldProcessAnnotationOnField()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.101"/>
+  <testcase name="shouldInvokeCustomProcessor()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.001"/>
+  <testcase name="shouldProcessAnnotationOnInheritedClass()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.002"/>
+  <testcase name="shouldIgnoreNonAnnotatedType()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.024"/>
+  <testcase name="shouldProcessAnnotationOnType()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.016"/>
+  <testcase name="shouldProcessAnnotationOnConstructor()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.002"/>
+  <testcase name="shouldProcessWithMultipleProcessorsWithAnnotationOnType()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.004"/>
+  <testcase name="shouldProcessAnnotationOnMethod()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.003"/>
+  <testcase name="shouldProcessAnnotationOnInterface()" classname="org.springframework.aot.hint.annotation.ReflectiveRuntimeHintsRegistrarTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

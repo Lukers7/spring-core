@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.ConventionsTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:58" hostname="WKS-SE-RPL" time="1.251">
+  <properties/>
+  <testcase name="reactiveParameters()" classname="org.springframework.core.ConventionsTests" time="1.244"/>
+  <testcase name="simpleObject()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <testcase name="emptyList()" classname="org.springframework.core.ConventionsTests" time="0.0"/>
+  <testcase name="attributeNameToPropertyName()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <testcase name="getQualifiedAttributeName()" classname="org.springframework.core.ConventionsTests" time="0.0"/>
+  <testcase name="set()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <testcase name="list()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <testcase name="array()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <testcase name="reactiveReturnTypes()" classname="org.springframework.core.ConventionsTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

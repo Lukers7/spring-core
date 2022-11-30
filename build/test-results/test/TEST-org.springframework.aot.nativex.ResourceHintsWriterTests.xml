@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.nativex.ResourceHintsWriterTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:58" hostname="WKS-SE-RPL" time="0.022">
+  <properties/>
+  <testcase name="registerWildcardAtTheBeginningPattern()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.003"/>
+  <testcase name="registerType()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.001"/>
+  <testcase name="registerWildcardInTheMiddlePattern()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.001"/>
+  <testcase name="registerWildcardAtTheEndPattern()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.001"/>
+  <testcase name="registerExactMatch()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.001"/>
+  <testcase name="registerWithReachableTypeCondition()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.002"/>
+  <testcase name="registerResourceBundle()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.002"/>
+  <testcase name="empty()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.0"/>
+  <testcase name="registerPatternWithIncludesAndExcludes()" classname="org.springframework.aot.nativex.ResourceHintsWriterTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:17" hostname="WKS-SE-RPL" time="0.003">
+  <properties/>
+  <testcase name="andValueWhenSameTypeReturnsCompositeResolvingFirst()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="fromAdaptsFunction()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="andValueSupplierWhenSameTypeReturnsCompositeResolvingFirst()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="ofValueResolvesValue()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="andValueReturnsComposite()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="andValueSupplierReturnsComposite()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.001"/>
+  <testcase name="ofValueSupplierResolvesValue()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <testcase name="andResolverReturnsComposite()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests$ArgumentResolverTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

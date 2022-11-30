@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.GeneratedMethodTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:55" hostname="WKS-SE-RPL" time="0.007">
+  <properties/>
+  <testcase name="generateMethodSpecReturnsMethodSpec()" classname="org.springframework.aot.generate.GeneratedMethodTests" time="0.002"/>
+  <testcase name="getNameReturnsName()" classname="org.springframework.aot.generate.GeneratedMethodTests" time="0.001"/>
+  <testcase name="generateMethodSpecWhenMethodNameIsChangedThrowsException()" classname="org.springframework.aot.generate.GeneratedMethodTests" time="0.001"/>
+  <testcase name="toMethodReferenceWithInstanceMethod()" classname="org.springframework.aot.generate.GeneratedMethodTests" time="0.0"/>
+  <testcase name="toMethodReferenceWithStaticMethod()" classname="org.springframework.aot.generate.GeneratedMethodTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

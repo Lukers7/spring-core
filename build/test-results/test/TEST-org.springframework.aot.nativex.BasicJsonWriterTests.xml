@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.nativex.BasicJsonWriterTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.1">
+  <properties/>
+  <testcase name="writeWithTypeReferenceForDoubleInnerClass()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.004"/>
+  <testcase name="writeWithEscapeNewline()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.049"/>
+  <testcase name="writeWithEscapeDoubleQuote()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeWithTypeReferenceForSimpleClass()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeObjectWithNestedArrayOfObject()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeWithTypeReferenceForInnerClass()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeObjectWithNestedArrayOfString()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeObjectWithNestedObject()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeWithEscapeFormFeed()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeObjectWithNestedEmptyObject()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeObjectWithNestedEmptyArray()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeWithEscapeBackslash()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeWithEscapeBackspace()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeObject()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeWithEscapeTab()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.0"/>
+  <testcase name="writeWithEscapeUnicode()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <testcase name="writeWithEscapeCarriageReturn()" classname="org.springframework.aot.nativex.BasicJsonWriterTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

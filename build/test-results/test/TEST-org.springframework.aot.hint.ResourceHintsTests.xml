@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.ResourceHintsTests" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:56" hostname="WKS-SE-RPL" time="0.098">
+  <properties/>
+  <testcase name="registerRootPattern()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.008"/>
+  <testcase name="registerResourceWithUnsupportedResourceType()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.003"/>
+  <testcase name="registerResourceBundleSeveralTimesAddsOneEntry()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerType()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.042"/>
+  <testcase name="registerResourceWithExistingClassPathResource()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerExactMatchesInRootDirectory()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.006"/>
+  <testcase name="registerPattern()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.002"/>
+  <testcase name="registerResourceBundle()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerResourceWithExistingRelativeClassPathResource()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerResourceWithNonexistentClassPathResource()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.002"/>
+  <testcase name="registerRootDirectory()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerPatternWithIncludesAndExcludes()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.008"/>
+  <testcase name="registerIfPresentIgnoreMissingLocation()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.003"/>
+  <testcase name="registerIfPresentRegisterExistingLocation()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerTypeWithInnerNestedType()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.002"/>
+  <testcase name="registerExactMatches()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.001"/>
+  <testcase name="registerTypeSeveralTimesAddsOnlyOneEntry()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.0"/>
+  <testcase name="registerTypeWithNestedType()" classname="org.springframework.aot.hint.ResourceHintsTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

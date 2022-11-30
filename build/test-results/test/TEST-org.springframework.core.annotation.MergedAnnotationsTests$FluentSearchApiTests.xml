@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:09" hostname="WKS-SE-RPL" time="0.02">
+  <properties/>
+  <testcase name="searchFromClassWithDefaultAnnotationFilterAndDefaultRepeatableContainers()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.001"/>
+  <testcase name="searchFromNonAnnotatedInnerClassWithAnnotatedEnclosingClassWithEnclosingClassPredicates()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.002"/>
+  <testcase name="searchFromNonAnnotatedStaticNestedClassWithAnnotatedEnclosingClassWithEnclosingClassPredicates()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.014"/>
+  <testcase name="searchFromClassWithCustomAnnotationFilter()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.001"/>
+  <testcase name="searchFromClassWithCustomRepeatableContainers()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.001"/>
+  <testcase name="preconditions()" classname="org.springframework.core.annotation.MergedAnnotationsTests$FluentSearchApiTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

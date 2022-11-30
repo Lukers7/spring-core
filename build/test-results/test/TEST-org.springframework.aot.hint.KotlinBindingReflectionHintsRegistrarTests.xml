@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.KotlinBindingReflectionHintsRegistrarTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:25" hostname="WKS-SE-RPL" time="4.569">
+  <properties/>
+  <testcase name="Register reflection hints for Kotlin data class()" classname="org.springframework.aot.hint.KotlinBindingReflectionHintsRegistrarTests" time="4.091"/>
+  <testcase name="Register reflection hints for Kotlinx serialization()" classname="org.springframework.aot.hint.KotlinBindingReflectionHintsRegistrarTests" time="0.478"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

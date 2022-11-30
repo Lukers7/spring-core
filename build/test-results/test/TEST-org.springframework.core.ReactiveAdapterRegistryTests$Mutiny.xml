@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:59" hostname="WKS-SE-RPL" time="0.199">
+  <properties/>
+  <testcase name="toMulti()" classname="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" time="0.158"/>
+  <testcase name="fromUni()" classname="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" time="0.028"/>
+  <testcase name="fromMulti()" classname="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" time="0.004"/>
+  <testcase name="toUni()" classname="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" time="0.002"/>
+  <testcase name="defaultAdapterRegistrations()" classname="org.springframework.core.ReactiveAdapterRegistryTests$Mutiny" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/reinhold/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.19.0/1a0c9615ba9fd5b96db8c1136afbef4394286e93/log4j-slf4j-impl-2.19.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+]]></system-err>
+</testsuite>

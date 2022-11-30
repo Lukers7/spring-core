@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.MethodNameTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:55" hostname="WKS-SE-RPL" time="0.01">
+  <properties/>
+  <testcase name="andNameWhenPartsIsNullThrowsException()" classname="org.springframework.aot.generate.MethodNameTests" time="0.001"/>
+  <testcase name="andPartsWhenPartsIsNullThrowsException()" classname="org.springframework.aot.generate.MethodNameTests" time="0.0"/>
+  <testcase name="ofWhenPartsIsNullThrowsException()" classname="org.springframework.aot.generate.MethodNameTests" time="0.0"/>
+  <testcase name="ofReturnsMethodName()" classname="org.springframework.aot.generate.MethodNameTests" time="0.0"/>
+  <testcase name="hashCodeAndEquals()" classname="org.springframework.aot.generate.MethodNameTests" time="0.004"/>
+  <testcase name="andNameReturnsMethodName()" classname="org.springframework.aot.generate.MethodNameTests" time="0.001"/>
+  <testcase name="andPartsReturnsMethodName()" classname="org.springframework.aot.generate.MethodNameTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.009">
+  <properties/>
+  <testcase name="shouldFailForUnknownClass()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.001"/>
+  <testcase name="shouldFailForMissingField()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.001"/>
+  <testcase name="fieldReflectionDoesNotMatchNonRegisteredFielddHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.001"/>
+  <testcase name="privateFieldReflectionMatchesFieldHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.0"/>
+  <testcase name="fieldReflectionMatchesDeclaredFieldsHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.0"/>
+  <testcase name="privateFieldReflectionMatchesDeclaredFieldsHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.0"/>
+  <testcase name="privateFieldReflectionDoesNotMatchPublicFieldsHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.001"/>
+  <testcase name="fieldReflectionMatchesPublicFieldsHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.0"/>
+  <testcase name="fieldReflectionMatchesFieldHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnField" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

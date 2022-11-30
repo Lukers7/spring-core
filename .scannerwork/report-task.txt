@@ -1,0 +1,6 @@
+projectKey=Spring_Core-6.0.2
+serverUrl=https://sonar2.se.jku.at
+serverVersion=8.9.6.50800
+dashboardUrl=https://sonar2.se.jku.at/dashboard?id=Spring_Core-6.0.2
+ceTaskId=AYTI-Ww9-cnAEYESwCKe
+ceTaskUrl=https://sonar2.se.jku.at/api/ce/task?id=AYTI-Ww9-cnAEYESwCKe

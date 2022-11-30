@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.support.SpringFactoriesLoaderTests" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:17" hostname="WKS-SE-RPL" time="0.084">
+  <properties/>
+  <testcase name="loadWhenMultipleConstructorsThrowsException()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.007"/>
+  <testcase name="loadWhenIncompatibleTypeThrowsException()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.002"/>
+  <testcase name="loadWithArgumentResolverWhenNoDefaultConstructor()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.004"/>
+  <testcase name="sameCachedResultIsUsedForDefaultClassLoaderAndNullClassLoader()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.001"/>
+  <testcase name="loadWithLoggingFailureHandlerWhenIncompatibleTypeReturnsEmptyList()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.066"/>
+  <testcase name="loadForResourceLocationWhenLocationDoesNotExistReturnsEmptyList()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.001"/>
+  <testcase name="loadFactoriesLoadsFromDefaultLocation()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <testcase name="loadWhenDuplicateRegistrationsPresentReturnsListInCorrectOrder()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <testcase name="loadWithLoggingFailureHandlerWhenMissingArgumentDropsItem()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <testcase name="loadForResourceLocationLoadsFactories()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.001"/>
+  <testcase name="loadWhenPackagePrivateFactory()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <testcase name="loadWhenNoRegisteredImplementationsReturnsEmptyList()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <testcase name="loadFactoryNames()" classname="org.springframework.core.io.support.SpringFactoriesLoaderTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

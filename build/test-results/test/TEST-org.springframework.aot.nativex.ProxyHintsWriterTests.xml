@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.nativex.ProxyHintsWriterTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:58" hostname="WKS-SE-RPL" time="0.025">
+  <properties/>
+  <testcase name="shouldWriteOneEntry()" classname="org.springframework.aot.nativex.ProxyHintsWriterTests" time="0.001"/>
+  <testcase name="shouldWriteMultipleEntries()" classname="org.springframework.aot.nativex.ProxyHintsWriterTests" time="0.001"/>
+  <testcase name="shouldWriteInnerClass()" classname="org.springframework.aot.nativex.ProxyHintsWriterTests" time="0.001"/>
+  <testcase name="empty()" classname="org.springframework.aot.nativex.ProxyHintsWriterTests" time="0.0"/>
+  <testcase name="shouldWriteCondition()" classname="org.springframework.aot.nativex.ProxyHintsWriterTests" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

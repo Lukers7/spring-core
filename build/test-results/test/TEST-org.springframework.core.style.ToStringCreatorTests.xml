@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.style.ToStringCreatorTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:18" hostname="WKS-SE-RPL" time="0.006">
+  <properties/>
+  <testcase name="appendList()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.002"/>
+  <testcase name="primitiveArray()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.001"/>
+  <testcase name="objectArray()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <testcase name="appendNestedClass()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <testcase name="appendTopLevelMethod()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <testcase name="appendTopLevelClass()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <testcase name="appendNestedMethod()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <testcase name="appendMap()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.002"/>
+  <testcase name="appendSet()" classname="org.springframework.core.style.ToStringCreatorTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

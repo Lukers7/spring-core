@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.DefaultMethodReferenceTests" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:52" hostname="WKS-SE-RPL" time="0.071">
+  <properties/>
+  <testcase name="toInvokeCodeBlockWithNonMatchingArg()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.045"/>
+  <testcase name="toInvokeCodeBlockWithStaticMethodAndMatchingDeclaringClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.004"/>
+  <testcase name="toCodeBlockWithStaticMethodRequiresDeclaringClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.001"/>
+  <testcase name="toCodeBlock()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toInvokeCodeBlockWithMatchingArg()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toCodeBlockWithStaticMethod()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="createWithStringCreatesMethodReference()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toInvokeCodeBlockWithNonMatchingDeclaringClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.001"/>
+  <testcase name="createWithStaticAndClassAndStringCreatesMethodReference()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.001"/>
+  <testcase name="toInvokeCodeBlockWithMatchingTargetClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toInvokeCodeBlockWithNullDeclaringClassAndNullTargetClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toInvokeCodeBlockWithNullDeclaringClassAndTargetClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="createWithClassNameAndStringCreateMethodReference()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.002"/>
+  <testcase name="toInvokeCodeBlockWithDeclaringClassAndNullTargetClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.001"/>
+  <testcase name="toInvokeCodeBlockWithStaticMethodAndSeparateDeclaringClass()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.0"/>
+  <testcase name="toInvokeCodeBlockWithMatchingArgs()" classname="org.springframework.aot.generate.DefaultMethodReferenceTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

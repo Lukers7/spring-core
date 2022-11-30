@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.GeneratedClassTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:52" hostname="WKS-SE-RPL" time="0.018">
+  <properties/>
+  <testcase name="getNameReturnsName()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.0"/>
+  <testcase name="getEnclosingNameOnInnerClassReturnsParent()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.0"/>
+  <testcase name="getEnclosingNameOnTopLevelClassReturnsNull()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.0"/>
+  <testcase name="generateJavaFileIncludesGeneratedMethods()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.006"/>
+  <testcase name="generateJavaFileOnInnerClassThrowsException()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.001"/>
+  <testcase name="reserveMethodNamesWhenNameUsedThrowsException()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.001"/>
+  <testcase name="getOrAddWhenRepeatReturnsSameGeneratedClass()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.0"/>
+  <testcase name="generateMethodNameWhenAllEmptyPartsGeneratesSetName()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.0"/>
+  <testcase name="reserveMethodNamesReservesNames()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.001"/>
+  <testcase name="generateJavaFileIncludesDeclaredClasses()" classname="org.springframework.aot.generate.GeneratedClassTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

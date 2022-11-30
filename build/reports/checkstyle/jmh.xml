@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0.1">
+<file name="C:\Users\reinhold\Desktop\spring-framework-6.0.2\spring-core\src\jmh\java\org\springframework\core\codec\StringDecoderBenchmark.java">
+</file>
+<file name="C:\Users\reinhold\Desktop\spring-framework-6.0.2\spring-core\src\jmh\java\org\springframework\core\convert\support\GenericConversionServiceBenchmark.java">
+</file>
+<file name="C:\Users\reinhold\Desktop\spring-framework-6.0.2\spring-core\src\jmh\java\org\springframework\util\ConcurrentLruCacheBenchmark.java">
+</file>
+<file name="C:\Users\reinhold\Desktop\spring-framework-6.0.2\spring-core\src\jmh\java\org\springframework\util\ReflectionUtilsUniqueDeclaredMethodsBenchmark.java">
+</file>
+<file name="C:\Users\reinhold\Desktop\spring-framework-6.0.2\spring-core\src\jmh\java\org\springframework\util\StringUtilsBenchmark.java">
+</file>
+</checkstyle>

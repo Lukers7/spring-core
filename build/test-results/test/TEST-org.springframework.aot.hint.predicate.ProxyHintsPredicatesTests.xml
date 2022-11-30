@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.predicate.ProxyHintsPredicatesTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.027">
+  <properties/>
+  <testcase name="proxyForInterfacesDoesNotMatchProxyHintDifferentOrder()" classname="org.springframework.aot.hint.predicate.ProxyHintsPredicatesTests" time="0.024"/>
+  <testcase name="proxyForInterfacesMatchesProxyHint()" classname="org.springframework.aot.hint.predicate.ProxyHintsPredicatesTests" time="0.001"/>
+  <testcase name="shouldFailForEmptyInterfacesArray()" classname="org.springframework.aot.hint.predicate.ProxyHintsPredicatesTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

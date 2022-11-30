@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.171">
+  <properties/>
+  <testcase name="reflectionConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.08"/>
+  <testcase name="resourceConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.014"/>
+  <testcase name="emptyConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.025"/>
+  <testcase name="jniConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.015"/>
+  <testcase name="namespace()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.013"/>
+  <testcase name="serializationConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.011"/>
+  <testcase name="proxyConfig()" classname="org.springframework.aot.nativex.FileNativeConfigurationWriterTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

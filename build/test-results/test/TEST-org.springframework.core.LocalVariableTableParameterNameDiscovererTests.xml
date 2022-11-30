@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" tests="11" skipped="1" failures="0" errors="0" timestamp="2022-11-30T11:06:59" hostname="WKS-SE-RPL" time="0.078">
+  <properties/>
+  <testcase name="generifiedClass()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.04"/>
+  <testcase name="classesWithoutDebugSymbols()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="consParameterNameDiscoveryNoArgs()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.005"/>
+  <testcase name="overloadedStaticMethodInInnerClass()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.003"/>
+  <testcase name="methodParameterNameDiscoveryWithArgs()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.001"/>
+  <testcase name="overloadedMethod()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.002"/>
+  <testcase name="overloadedMethodInInnerClass()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.001"/>
+  <testcase name="overloadedStaticMethod()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.002"/>
+  <testcase name="staticMethodParameterNameDiscoveryNoArgs()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.002"/>
+  <testcase name="consParameterNameDiscoveryArgs()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.002"/>
+  <testcase name="methodParameterNameDiscoveryNoArgs()" classname="org.springframework.core.LocalVariableTableParameterNameDiscovererTests" time="0.002"/>
+  <system-out><![CDATA[12:06:59.761 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests$GenerifiedClass
+12:06:59.774 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.tests.sample.objects.TestObject
+12:06:59.780 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests$InnerClass
+12:06:59.782 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.tests.sample.objects.TestObject
+12:06:59.785 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests
+12:06:59.787 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests$InnerClass
+12:06:59.789 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests
+12:06:59.791 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.core.LocalVariableTableParameterNameDiscovererTests
+12:06:59.793 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.tests.sample.objects.TestObject
+12:06:59.807 [Test worker] WARN  o.s.c.LocalVariableTableParameterNameDiscoverer - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: org.springframework.tests.sample.objects.TestObject
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

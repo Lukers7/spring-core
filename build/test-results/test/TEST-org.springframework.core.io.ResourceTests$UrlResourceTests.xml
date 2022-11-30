@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.ResourceTests$UrlResourceTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:12" hostname="WKS-SE-RPL" time="0.642">
+  <properties/>
+  <testcase name="canCustomizeHttpUrlConnectionForExists()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.241"/>
+  <testcase name="missingRemoteResourceDoesNotExist()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.087"/>
+  <testcase name="canCustomizeHttpUrlConnectionForRead()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.124"/>
+  <testcase name="sameResourceWithRelativePathIsEqual()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.0"/>
+  <testcase name="remoteResourceExists()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.184"/>
+  <testcase name="filenameContainingHashTagIsExtractedFromFilePathUnencoded()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.001"/>
+  <testcase name="relativeResourcesAreEqual()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.0"/>
+  <testcase name="factoryMethodsProduceEqualResources()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.0"/>
+  <testcase name="filenameIsExtractedFromFilePath()" classname="org.springframework.core.io.ResourceTests$UrlResourceTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov. 30, 2022 12:07:12 PM okhttp3.mockwebserver.MockWebServer$3 execute
+INFORMATION: MockWebServer[57467] starting to accept connections
+Nov. 30, 2022 12:07:12 PM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFORMATION: MockWebServer[57467] received request: HEAD /resource HTTP/1.1 and responded: HTTP/1.1 200 OK
+Nov. 30, 2022 12:07:12 PM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
+INFORMATION: MockWebServer[57467] done accepting connections: Socket closed
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 execute
+INFORMATION: MockWebServer[57469] starting to accept connections
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFORMATION: MockWebServer[57469] received request: HEAD /missing HTTP/1.1 and responded: HTTP/1.1 404 Client Error
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
+INFORMATION: MockWebServer[57469] done accepting connections: Socket closed
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 execute
+INFORMATION: MockWebServer[57471] starting to accept connections
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFORMATION: MockWebServer[57471] received request: GET /resource HTTP/1.1 and responded: HTTP/1.1 200 OK
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
+INFORMATION: MockWebServer[57471] done accepting connections: Socket closed
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 execute
+INFORMATION: MockWebServer[57473] starting to accept connections
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFORMATION: MockWebServer[57473] received request: HEAD /resource HTTP/1.1 and responded: HTTP/1.1 200 OK
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFORMATION: MockWebServer[57473] received request: HEAD /resource HTTP/1.1 and responded: HTTP/1.1 200 OK
+Nov. 30, 2022 12:07:13 PM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
+INFORMATION: MockWebServer[57473] done accepting connections: Socket closed
+]]></system-err>
+</testsuite>

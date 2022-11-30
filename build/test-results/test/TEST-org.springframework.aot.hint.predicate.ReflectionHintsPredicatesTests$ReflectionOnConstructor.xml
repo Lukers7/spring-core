@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" tests="23" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:57" hostname="WKS-SE-RPL" time="0.021">
+  <properties/>
+  <testcase name="privateConstructorIntrospectionDoesNotMatchInvokePublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.002"/>
+  <testcase name="constructorIntrospectionMatchesConstructorHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.003"/>
+  <testcase name="constructorIntrospectionMatchesInvokePublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="constructorIntrospectionMatchesIntrospectPublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorInvocationDoesNotMatchIntrospectDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="constructorInvocationDoesNotMatchIntrospectPublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorIntrospectionMatchesInvokeDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="privateConstructorInvocationDoesNotMatchConstructorHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="privateConstructorInvocationDoesNotMatchIntrospectPublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="privateConstructorIntrospectionDoesNotMatchIntrospectPublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="privateConstructorIntrospectionMatchesInvokeDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="privateConstructorIntrospectionMatchesConstructorHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorInvocationMatchesConstructorInvocationHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="privateConstructorInvocationMatchesConstructorInvocationHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="privateConstructorInvocationMatchesInvokeDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="privateConstructorInvocationDoesNotMatchInvokePublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorInvocationMatchesInvokeDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="constructorInvocationDoesNotMatchConstructorHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="privateConstructorInvocationDoesNotMatchIntrospectDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorIntrospectionMatchesIntrospectDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="constructorIntrospectionDoesNotMatchMissingHint()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <testcase name="privateConstructorIntrospectionMatchesIntrospectDeclaredConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.001"/>
+  <testcase name="constructorInvocationMatchesInvokePublicConstructors()" classname="org.springframework.aot.hint.predicate.ReflectionHintsPredicatesTests$ReflectionOnConstructor" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

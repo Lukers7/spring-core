@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.TypeHintTests" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:56" hostname="WKS-SE-RPL" time="0.02">
+  <properties/>
+  <testcase name="createWithConstructorWithSameConstructorUpdatesEntry()" classname="org.springframework.aot.hint.TypeHintTests" time="0.004"/>
+  <testcase name="createWithTypeAndReachableType()" classname="org.springframework.aot.hint.TypeHintTests" time="0.0"/>
+  <testcase name="createWithConstructor()" classname="org.springframework.aot.hint.TypeHintTests" time="0.003"/>
+  <testcase name="createWithMethodWithSameMethodUpdatesEntry()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithConstructorAndSameConstructorAppliesExecutableModePrecedence()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithMemberCategory()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithField()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithMethod()" classname="org.springframework.aot.hint.TypeHintTests" time="0.002"/>
+  <testcase name="builtWithAppliesMemberCategories()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithType()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <testcase name="createWithNullTypeReference()" classname="org.springframework.aot.hint.TypeHintTests" time="0.002"/>
+  <testcase name="createWithMethodAndSameMethodAppliesExecutableModePrecedence()" classname="org.springframework.aot.hint.TypeHintTests" time="0.002"/>
+  <testcase name="typeHintHasAppropriateToString()" classname="org.springframework.aot.hint.TypeHintTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

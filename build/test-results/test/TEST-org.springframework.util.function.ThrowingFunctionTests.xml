@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.function.ThrowingFunctionTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:23" hostname="WKS-SE-RPL" time="0.007">
+  <properties/>
+  <testcase name="ofModifiesThrowException()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.002"/>
+  <testcase name="applyWhenThrowingUncheckedExceptionThrowsOriginal()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.001"/>
+  <testcase name="applyWhenThrowingCheckedExceptionThrowsWrapperRuntimeException()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.001"/>
+  <testcase name="applyWithExceptionWrapperWhenThrowingCheckedExceptionThrowsWrapper()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.001"/>
+  <testcase name="applyWithExceptionWrapperWhenThrowingUncheckedExceptionThrowsOriginal()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.001"/>
+  <testcase name="throwingModifiesThrownException()" classname="org.springframework.util.function.ThrowingFunctionTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

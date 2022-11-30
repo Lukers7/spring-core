@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.GeneratedClassesTests" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:52" hostname="WKS-SE-RPL" time="2.154">
+  <properties/>
+  <testcase name="addForFeatureComponentUsesTarget()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.0"/>
+  <testcase name="getOrAddForFeatureWhenRepeatReturnsSameGeneratedClass()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.02"/>
+  <testcase name="createWhenClassNameGeneratorIsNullThrowsException()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="addForFeatureComponentWhenFeatureNameIsEmptyThrowsException()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.0"/>
+  <testcase name="getOrAddForFeatureComponentWhenRepeatReturnsSameGeneratedClass()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="addForFeatureComponentWhenTypeSpecCustomizerIsNullThrowsException()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="writeToInvokeTypeSpecCustomizer()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="2.118"/>
+  <testcase name="getOrAddForFeatureComponentWhenHasFeatureNamePrefix()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="getOrAddForFeatureComponentWhenNewReturnsGeneratedClass()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="addForFeatureUsesDefaultTarget()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.0"/>
+  <testcase name="addForFeatureWhenFeatureNameIsEmptyThrowsException()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="addForFeatureComponentWithSameNameReturnsDifferentInstances()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="getOrAddForFeatureWhenNewReturnsGeneratedClass()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <testcase name="withNameUpdatesNamingConventions()" classname="org.springframework.aot.generate.GeneratedClassesTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

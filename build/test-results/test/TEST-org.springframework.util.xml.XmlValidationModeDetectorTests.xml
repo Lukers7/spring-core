@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.xml.XmlValidationModeDetectorTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:25" hostname="WKS-SE-RPL" time="0.016">
+  <properties/>
+  <testcase name="[1] fileName=dtdWithNoComments.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.002"/>
+  <testcase name="[2] fileName=dtdWithLeadingComment.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.002"/>
+  <testcase name="[3] fileName=dtdWithTrailingComment.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[4] fileName=dtdWithTrailingCommentAcrossMultipleLines.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[5] fileName=dtdWithCommentOnNextLine.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[6] fileName=dtdWithMultipleComments.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[1] fileName=xsdWithNoComments.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[2] fileName=xsdWithMultipleComments.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[3] fileName=xsdWithDoctypeInComment.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <testcase name="[4] fileName=xsdWithDoctypeInOpenCommentWithAdditionalCommentOnSameLine.xml" classname="org.springframework.util.xml.XmlValidationModeDetectorTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

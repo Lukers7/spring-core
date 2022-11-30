@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.ClassNameGeneratorTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:52" hostname="WKS-SE-RPL" time="0.044">
+  <properties/>
+  <testcase name="generateClassNameWithNoTextFeatureNamePrefix()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.015"/>
+  <testcase name="generatedClassNameWhenFeatureIsEmptyThrowsException()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.017"/>
+  <testcase name="generateClassNameWithClassWhenInnerClassGeneratesName()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.0"/>
+  <testcase name="generateClassNameUseFeatureNamePrefix()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.0"/>
+  <testcase name="generateClassWithClassWhenMultipleCallsGeneratesSequencedName()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.004"/>
+  <testcase name="generateClassNameWhenTargetClassIsNullUsesMainTarget()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.001"/>
+  <testcase name="generatedClassNameWhenFeatureIsNotAllLettersThrowsException()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.001"/>
+  <testcase name="generateClassNameWithClassWhenLowercaseFeatureNameGeneratesName()" classname="org.springframework.aot.generate.ClassNameGeneratorTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

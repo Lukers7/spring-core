@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.codec.NettyByteBufDecoderTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:10" hostname="WKS-SE-RPL" time="0.038">
+  <properties/>
+  <testcase name="decodeToMono()" classname="org.springframework.core.codec.NettyByteBufDecoderTests" time="0.006"/>
+  <testcase name="decode()" classname="org.springframework.core.codec.NettyByteBufDecoderTests" time="0.031"/>
+  <testcase name="canDecode()" classname="org.springframework.core.codec.NettyByteBufDecoderTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

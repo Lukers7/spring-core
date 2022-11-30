@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:17" hostname="WKS-SE-RPL" time="0.08">
+  <properties/>
+  <testcase name="usingClasspathStarProtocolWithWildcardInPatternAndEndingInSlash()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.006"/>
+  <testcase name="usingClasspathStarProtocolWithWildcardInPatternAndNotEndingInSlash()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.007"/>
+  <testcase name="usingFileProtocolWithWildcardInPatternAndNotEndingInSlash()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.003"/>
+  <testcase name="usingFileProtocolWithWildcardInPatternAndEndingInSlash()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.002"/>
+  <testcase name="usingFileProtocolWithWildcardInPatternAndEndingInSlashStarStar()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.036"/>
+  <testcase name="usingClasspathStarProtocolWithWildcardInPatternAndEndingWithSuffixPattern()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.007"/>
+  <testcase name="usingFileProtocolWithoutWildcardInPatternAndEndingInSlashStarStar()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.002"/>
+  <testcase name="usingFileProtocolAndAssertingUrlAndUriSyntax()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.002"/>
+  <testcase name="usingClasspathStarProtocol()" classname="org.springframework.core.io.support.PathMatchingResourcePatternResolverTests$FileSystemResources$WithHashtagsInTheirFileNames" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

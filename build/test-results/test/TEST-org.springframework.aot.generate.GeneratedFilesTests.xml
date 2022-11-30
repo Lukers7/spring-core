@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.GeneratedFilesTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:55" hostname="WKS-SE-RPL" time="0.024">
+  <properties/>
+  <testcase name="addResourceFileWithConsumedAppendableAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.001"/>
+  <testcase name="addSourceFileWithCharSequenceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.001"/>
+  <testcase name="addSourceFileWithCharSequenceWhenClassNameIsInvalidThrowsException()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.001"/>
+  <testcase name="addSourceFileWithJavaFileAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.004"/>
+  <testcase name="addResourceFileWithCharSequenceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.001"/>
+  <testcase name="addSourceFileWithInputStreamSourceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.0"/>
+  <testcase name="addSourceFileWithCharSequenceWhenClassNameIsEmptyThrowsException()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.0"/>
+  <testcase name="addResourceFileWithInputStreamSourceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.0"/>
+  <testcase name="addSourceFileWithConsumedAppendableAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.003"/>
+  <testcase name="addFileWithCharSequenceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.002"/>
+  <testcase name="addClassFileWithInputStreamSourceAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.0"/>
+  <testcase name="addFileWithConsumedAppendableAddsFile()" classname="org.springframework.aot.generate.GeneratedFilesTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

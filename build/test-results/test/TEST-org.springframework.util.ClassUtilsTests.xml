@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.ClassUtilsTests" tests="76" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:20" hostname="WKS-SE-RPL" time="0.303">
+  <properties/>
+  <testcase name="determineCommonAncestor()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="isNotLambda()" classname="org.springframework.util.ClassUtilsTests" time="0.002"/>
+  <testcase name="getShortName()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="getShortNameForObjectArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getQualifiedName()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getMethodCountForName()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'boolean' -&gt; boolean" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="'byte' -&gt; byte" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'char' -&gt; char" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="'short' -&gt; short" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'int' -&gt; int" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'long' -&gt; long" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'float' -&gt; float" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'double' -&gt; double" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[Z' -&gt; boolean[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[B' -&gt; byte[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[C' -&gt; char[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[S' -&gt; short[]" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="'[I' -&gt; int[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[J' -&gt; long[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[F' -&gt; float[]" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="'[D' -&gt; double[]" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="getMethodIfAvailable()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getQualifiedNameForMultiDimensionalObjectArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="isAssignable()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getQualifiedNameForMultiDimensionalPrimitiveArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="forNameWithPrimitiveArraysInternalName()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="getQualifiedNameForObjectArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="isPresent()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="forNameWithNestedType()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="getClassFileName()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="forName()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="forNameWithPrimitiveArrays()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="hasMethod()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="isLambda()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="classNamesToString()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[1] type=boolean" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[2] type=char" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[3] type=byte" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[4] type=short" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[5] type=int" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[6] type=long" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[7] type=float" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[8] type=double" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[9] type=void" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="forNameWithPrimitiveClasses()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[1] type=class java.lang.Boolean" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[2] type=class java.lang.Character" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[3] type=class java.lang.Byte" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[4] type=class java.lang.Short" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[5] type=class java.lang.Integer" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[6] type=class java.lang.Long" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[7] type=class java.lang.Float" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[8] type=class java.lang.Double" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[9] type=class java.lang.Void" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getPackageName()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="getShortNameForNestedClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="addResourcePathToPackagePath()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="isCacheSafe()" classname="org.springframework.util.ClassUtilsTests" time="0.003"/>
+  <testcase name="getShortNameForPrimitiveArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.037"/>
+  <testcase name="countOverloadedMethods()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getShortNameForMultiDimensionalPrimitiveArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getShortNameForMultiDimensionalObjectArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getAllInterfaces()" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="classPackageAsResourcePath()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getShortNameAsProperty()" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="getQualifiedNameForPrimitiveArrayClass()" classname="org.springframework.util.ClassUtilsTests" time="0.003"/>
+  <testcase name="[1] type=class java.lang.Boolean" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[2] type=class java.lang.Character" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[3] type=class java.lang.Byte" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[4] type=class java.lang.Short" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[5] type=class java.lang.Integer" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <testcase name="[6] type=class java.lang.Long" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[7] type=class java.lang.Float" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[8] type=class java.lang.Double" classname="org.springframework.util.ClassUtilsTests" time="0.0"/>
+  <testcase name="[9] type=class java.lang.Void" classname="org.springframework.util.ClassUtilsTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

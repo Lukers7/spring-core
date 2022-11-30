@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.hint.ReflectionTypeReferenceTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:56" hostname="WKS-SE-RPL" time="0.013">
+  <properties/>
+  <testcase name="[1] clazz=int, binaryName=int" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.0"/>
+  <testcase name="[2] clazz=class [I, binaryName=int[]" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.0"/>
+  <testcase name="[3] clazz=class [Ljava.lang.Integer;, binaryName=java.lang.Integer[]" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.006"/>
+  <testcase name="[4] clazz=class [Ljava.lang.Object;, binaryName=java.lang.Object[]" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.0"/>
+  <testcase name="[5] clazz=class org.springframework.aot.hint.ReflectionTypeReferenceTests$StaticNested, binaryName=org.springframework.aot.hint.ReflectionTypeReferenceTests$StaticNested" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.0"/>
+  <testcase name="[6] clazz=class [Lorg.springframework.aot.hint.ReflectionTypeReferenceTests$StaticNested;, binaryName=org.springframework.aot.hint.ReflectionTypeReferenceTests$StaticNested[]" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.001"/>
+  <testcase name="[7] clazz=class org.springframework.aot.hint.ReflectionTypeReferenceTests$Inner, binaryName=org.springframework.aot.hint.ReflectionTypeReferenceTests$Inner" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.001"/>
+  <testcase name="[8] clazz=class [Lorg.springframework.aot.hint.ReflectionTypeReferenceTests$Inner;, binaryName=org.springframework.aot.hint.ReflectionTypeReferenceTests$Inner[]" classname="org.springframework.aot.hint.ReflectionTypeReferenceTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

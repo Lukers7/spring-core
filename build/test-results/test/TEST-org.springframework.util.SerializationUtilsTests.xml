@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.util.SerializationUtilsTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:21" hostname="WKS-SE-RPL" time="0.05">
+  <properties/>
+  <testcase name="serializeCycleSunnyDay()" classname="org.springframework.util.SerializationUtilsTests" time="0.001"/>
+  <testcase name="deserializeUndefined()" classname="org.springframework.util.SerializationUtilsTests" time="0.002"/>
+  <testcase name="serializeNonSerializableRecord()" classname="org.springframework.util.SerializationUtilsTests" time="0.008"/>
+  <testcase name="deserializeNonSerializable()" classname="org.springframework.util.SerializationUtilsTests" time="0.0"/>
+  <testcase name="serializeNonSerializable()" classname="org.springframework.util.SerializationUtilsTests" time="0.002"/>
+  <testcase name="serializeNull()" classname="org.springframework.util.SerializationUtilsTests" time="0.0"/>
+  <testcase name="serializeAndDeserializeSerializableRecord()" classname="org.springframework.util.SerializationUtilsTests" time="0.03"/>
+  <testcase name="deserializeNull()" classname="org.springframework.util.SerializationUtilsTests" time="0.0"/>
+  <testcase name="cloneException()" classname="org.springframework.util.SerializationUtilsTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aot.generate.AccessControlTests" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:06:52" hostname="WKS-SE-RPL" time="0.364">
+  <properties/>
+  <testcase name="isAccessibleWhenPackagePrivateVisibilityInDifferentPackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.227"/>
+  <testcase name="forMemberWhenPublicClassWithPublicMethodAndPackagePrivateGenericOnReturnType()" classname="org.springframework.aot.generate.AccessControlTests" time="0.074"/>
+  <testcase name="isAccessibleWhenPrivateVisibilityInSamePackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPublicFieldAndPackagePrivateFieldType()" classname="org.springframework.aot.generate.AccessControlTests" time="0.002"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateConstructorParameter()" classname="org.springframework.aot.generate.AccessControlTests" time="0.004"/>
+  <testcase name="forResolvableTypeWhenPackagePrivateGeneric()" classname="org.springframework.aot.generate.AccessControlTests" time="0.005"/>
+  <testcase name="forMemberWhenPackagePrivateClassWithPublicMethod()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateMethodParameter()" classname="org.springframework.aot.generate.AccessControlTests" time="0.003"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateMethodReturnType()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPackagePrivateClassWithPublicConstructor()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="isAccessibleWhenProtectedVisibilityInSamePackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="isAccessibleWhenPublicVisibilityInDifferentPackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="isAccessibleWhenProtectedVisibilityInDifferentPackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateArrayComponent()" classname="org.springframework.aot.generate.AccessControlTests" time="0.0"/>
+  <testcase name="forResolvableTypeWhenRecursiveType()" classname="org.springframework.aot.generate.AccessControlTests" time="0.002"/>
+  <testcase name="forMemberWhenPublicConstructor()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="isAccessibleWhenPrivateVisibilityInDifferentPackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateField()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPrivateField()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateMethod()" classname="org.springframework.aot.generate.AccessControlTests" time="0.001"/>
+  <testcase name="forMemberWhenPublicClassWithPackagePrivateGenericOnConstructorParameter()" classname="org.springframework.aot.generate.AccessControlTests" time="0.009"/>
+  <testcase name="forMemberWhenPackagePrivateConstructor()" classname="org.springframework.aot.generate.AccessControlTests" time="0.0"/>
+  <testcase name="isAccessibleWhenPackagePrivateVisibilityInSamePackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.0"/>
+  <testcase name="isAccessibleWhenPublicVisibilityInSamePackage()" classname="org.springframework.aot.generate.AccessControlTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

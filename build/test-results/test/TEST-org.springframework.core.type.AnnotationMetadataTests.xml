@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.core.type.AnnotationMetadataTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-11-30T11:07:18" hostname="WKS-SE-RPL" time="0.104">
+  <properties/>
+  <testcase name="composedAnnotationWithMetaAnnotationsWithIdenticalAttributeNamesUsingStandardAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.006"/>
+  <testcase name="multipleAnnotationsWithIdenticalAttributeNamesUsingStandardAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.0"/>
+  <testcase name="asmAnnotationMetadataForInterface()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.007"/>
+  <testcase name="asmAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.054"/>
+  <testcase name="metaAnnotationOverridesUsingStandardAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.014"/>
+  <testcase name="inheritedAnnotationWithMetaAnnotationsWithIdenticalAttributeNamesUsingAnnotationMetadataReadingVisitor()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="metaAnnotationOverridesUsingAnnotationMetadataReadingVisitor()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="standardAnnotationMetadataForSubclass()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.004"/>
+  <testcase name="inheritedAnnotationWithMetaAnnotationsWithIdenticalAttributeNamesUsingStandardAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="standardAnnotationMetadataForAnnotation()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.0"/>
+  <testcase name="standardAnnotationMetadataForInterface()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.0"/>
+  <testcase name="asmAnnotationMetadataForSubclass()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="standardAnnotationMetadata()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.008"/>
+  <testcase name="standardAnnotationMetadata_nestedAnnotationsAsMap_false()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="asmAnnotationMetadataForAnnotation()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="composedAnnotationWithMetaAnnotationsWithIdenticalAttributeNamesUsingAnnotationMetadataReadingVisitor()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <testcase name="multipleAnnotationsWithIdenticalAttributeNamesUsingAnnotationMetadataReadingVisitor()" classname="org.springframework.core.type.AnnotationMetadataTests" time="0.001"/>
+  <system-out><![CDATA[12:07:18.497 [Test worker] WARN  o.s.c.a.AnnotationTypeMapping - Support for convention-based annotation attribute overrides is deprecated and will be removed in Spring Framework 6.1. Please annotate the following attributes in @org.springframework.core.type.AnnotationMetadataTests$ComposedConfigurationWithAttributeOverrides with appropriate @AliasFor declarations: [basePackages]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
